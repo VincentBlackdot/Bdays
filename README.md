@@ -97,11 +97,11 @@ The application includes five different templates with:
 
 ## License 📄
 
-[Your chosen license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author ✍️
 
-[Your Name]
+Vincent Siame
 
 ## Acknowledgments 🙏
 
