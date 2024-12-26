@@ -95,6 +95,15 @@ The application includes five different templates with:
 3. Make your changes
 4. Submit a pull request
 
+## Documentation 📖
+
+Detailed documentation is available in the `docs` directory:
+
+- [Installation Guide](docs/installation.md) - How to set up the project
+- [User Guide](docs/usage.md) - How to use the application
+- [Developer Guide](docs/development.md) - Technical documentation
+- [API Documentation](docs/api.md) - API endpoints and usage
+
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
